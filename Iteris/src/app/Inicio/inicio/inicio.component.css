@@ -1,0 +1,26 @@
+.titulo{
+  text-align: center;
+  margin: 30px;
+}
+
+.resumo{
+  text-align: center;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+button{
+  background-color:lightblue;
+  text-align: center;
+  font-size: 20px;
+
+}
+
+.botao{
+  display: flex;
+  justify-content: center;
+}
+
+mat-card {
+  margin: 0 5px;
+}

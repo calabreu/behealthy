@@ -1,0 +1,38 @@
+.cardProf{
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 10px;
+}
+
+#foto{
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  margin-right: 10px;
+}
+
+#infoGerais{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+#photoProf{
+  height: 80px;
+  border-radius: 50%;
+}
+
+#txtNome{
+  font-size: 26px;
+  margin-bottom: 5px;;
+}
+
+#divContato{
+  width: 100%;
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: end;
+}
+#btnContato{
+  height: 30px;
+}
